@@ -9,3 +9,4 @@ module.exports = {
     }
     return this[KEY_CLOAK]
   }
+}

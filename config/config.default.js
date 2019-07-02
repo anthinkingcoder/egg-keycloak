@@ -3,7 +3,6 @@
 /**
  * egg-keycloak default config
  * @member Config#keycloak
- * @property {String} SOME_KEY - some description
  */
 exports.keycloak = {
   middleware: {
